@@ -1,1 +1,2 @@
-Santa Claus probem - Little book of semaphores
+## Santa Claus probem - Little book of semaphores using C programming language
+> Student project
